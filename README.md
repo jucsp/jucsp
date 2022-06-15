@@ -27,21 +27,6 @@
     <td>
       <img alt="" src="https://cdn-icons-png.flaticon.com/512/919/919828.png" width:"50" height="50">
     </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <p align="center">REACT</p></div>
-    </td>
-    <td>
-      <p align="center">VUE.JS</p></div>
-    </td>
-    <td>
-      <p align="center">JAVASCRIPT</p></div>
-    </td>
-   </tr>
-</table>
-<table align="center"> 
-  <tr align="center">
     <td>
       <img alt="" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width:"50" height="50">
     </td>
@@ -53,6 +38,15 @@
     </td>
   </tr>
   <tr align="center">
+    <td>
+      <p align="center">REACT</p></div>
+    </td>
+    <td>
+      <p align="center">VUE.JS</p></div>
+    </td>
+    <td>
+      <p align="center">JAVASCRIPT</p></div>
+    </td>
     <td>
       <p align="center">PHP 7.4</p></div>
     </td>

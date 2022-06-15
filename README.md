@@ -64,6 +64,30 @@
     </td>
    </tr>
 </table>
+<table align="center"> 
+  <tr align="center">
+    <td>
+      <img alt="" src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" width:"50" height="50">
+    </td>
+    <td>
+      <img alt="" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width:"50" height="50">
+    </td>
+    <td>
+      <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width:"50" height="50">
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <p align="center">SPRING</p></div>
+    </td>
+    <td>
+      <p align="center">JAVA</p></div>
+    </td>
+    <td>
+      <p align="center">PYTHON</p></div>
+    </td>
+   </tr>
+</table>
 
 
 <!--

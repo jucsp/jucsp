@@ -1,4 +1,4 @@
-<h1 align="center"> Juan Carlos Saavedra Peña - Full Stack Developer </h1>
+<h1 align="center"> Juan Carlos Saavedra - Full Stack Developer </h1>
 <h3 align="center"><i>Special love for Web and Mobile</i>🤓</h3>
 
 <h2 align="center"><i> ✨ Hobbies ✨ </i></h2>
